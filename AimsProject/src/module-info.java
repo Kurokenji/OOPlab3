@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kurok
+ *
+ */
+module AimsProject {
+}
